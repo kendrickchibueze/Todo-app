@@ -112,6 +112,7 @@ document.addEventListener("keyup", function(event){
        LIST[element.id].done = LIST[element.id].done ? false : true
 
    }
+   
 
    //remove a todo
    function removeTodo(element){
